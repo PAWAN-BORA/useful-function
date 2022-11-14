@@ -1,0 +1,22 @@
+{
+  "name": "useful-functions",
+  "version": "1.0.0",
+  "description": "get the list of functions that are useful",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["/dist"],
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAWAN-BORA/useful-functions.git"
+  },
+  "author": "pawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PAWAN-BORA/useful-functions/issues"
+  },
+  "homepage": "https://github.com/PAWAN-BORA/useful-functions#readme"
+}
